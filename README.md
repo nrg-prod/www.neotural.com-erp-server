@@ -1,1 +1,5 @@
-# www.neotural.com-erp-server
+Server Path 
+-----------
+http://localhost:80
+  
+ 		 		
